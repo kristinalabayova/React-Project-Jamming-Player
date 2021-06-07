@@ -1,4 +1,4 @@
-# jamming Project Codecademy 
+# jamming React Project Codecademy 
 
 # Getting Started with Create React App
 
